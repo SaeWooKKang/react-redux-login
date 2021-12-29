@@ -8,7 +8,7 @@
     "build": "webpack",
     "dev": "webpack "
   },
-  "homepage": "http://SaeWooKKang.github.io/react-redux-login",
+  "homepage": " https://saewookkang.github.io/react-redux-login/",
   "author": "",
   "license": "ISC",
   "dependencies": {
